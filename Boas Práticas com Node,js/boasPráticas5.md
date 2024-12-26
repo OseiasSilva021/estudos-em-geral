@@ -2,7 +2,7 @@
 # 🧪💻 **Escreva Testes de API Primeiro!**  
 
 ## 🚀 **Por que começar pelos testes de API?**  
-🔍 **TL;DR:**  
+🔍   
 A maioria dos projetos **não possuem testes automatizados** 😱, seja por:  
 - ⏳ **Falta de tempo**  
 - ❌ O "testing project" **sai de controle** e é abandonado  
