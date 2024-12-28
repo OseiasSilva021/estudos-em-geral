@@ -92,8 +92,8 @@ Use a [OMDb API](http://www.omdbapi.com/) para criar um aplicativo que busca inf
 
 1. Clone este repositório:
     ```bash
-    git clone 
-    cd api-exercicios
+    git clone https://github.com/OseiasSilva021/estudos-em-geral.git
+    cd desafios-com-apis
     ```
 
 2. Instale as dependências:
