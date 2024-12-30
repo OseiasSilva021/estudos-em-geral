@@ -79,4 +79,3 @@ Entender a diferença entre o escopo global em navegadores e Node.js é essencia
 💡 **Dica:** Evite usar variáveis globais sempre que possível. Prefira usar módulos, `const` ou `let` para manter seu código seguro e fácil de manter.  
 
 💻 **Feliz codificação!** 🌟
-```  
