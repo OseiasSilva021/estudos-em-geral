@@ -75,10 +75,7 @@ const app = express();
 app.use(express.json());
 
 // Conexão com MongoDB
-mongoose.connect('mongodb://localhost:27017/crm', {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-});
+mongoose.connect('mongodb://localhost:27017/crm');
 
 // Modelo de Cliente
 const Cliente = mongoose.model('Cliente', new mongoose.Schema({
